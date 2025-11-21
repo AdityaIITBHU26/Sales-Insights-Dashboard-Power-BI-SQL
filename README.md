@@ -81,13 +81,13 @@ To solve this, I built a unified Power BI dashboard that centralizes sales data 
 ## Dashboard Screens
 
 ### **KPI Summary**
-![KPI Dashboard](Screenshots/Sales-Insight-KPI.png)
+<img src="https://github.com/AdityaIITBHU26/Sales-Insights-Dashboard-Power-BI-SQL/blob/main/Screenshots/Sales%20Insight%20-%20Page%20KPI.png" class="center">
 
 ### **Performance Insights**
-![Performance Page](Screenshots/Sales-Insight-Performance.png)
+<img src="https://github.com/AdityaIITBHU26/Sales-Insights-Dashboard-Power-BI-SQL/blob/main/Screenshots/Sales%20Insight%20-%20Page%20Performance%20Insights.png" class="center">
 
 ### **Profit Analysis**
-![Profit Page](Screenshots/Sales-Insight-Profit.png)
+<img src="https://github.com/AdityaIITBHU26/Sales-Insights-Dashboard-Power-BI-SQL/blob/main/Screenshots/Sales%20Insight%20-%20Page%20Profit%20Analysis.png" class="center">
 
 
 ---
